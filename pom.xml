@@ -20,7 +20,7 @@
     <caffeine.version>2.6.2</caffeine.version>
     <httpclient.version>4.5.3</httpclient.version>
     <json-path.version>2.4.0</json-path.version>
-    <jackson.version>2.10.1</jackson.version>
+    <jackson.version>2.12.1</jackson.version>
     <junit.version>4.12</junit.version>
     <spring-boot.version>2.2.11.RELEASE</spring-boot.version>
     <jib-maven-plugin.version>2.7.1</jib-maven-plugin.version>
