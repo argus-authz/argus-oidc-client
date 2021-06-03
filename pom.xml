@@ -18,7 +18,7 @@
     <mitreid.version>1.3.2</mitreid.version>
     <voms.version>3.3.2</voms.version>
     <caffeine.version>2.6.2</caffeine.version>
-    <httpclient.version>4.5.3</httpclient.version>
+    <httpclient.version>4.5.13</httpclient.version>
     <json-path.version>2.4.0</json-path.version>
     <jackson.version>2.10.1</jackson.version>
     <junit.version>4.12</junit.version>
